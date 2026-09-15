@@ -59,7 +59,7 @@ mediante una aplicación móvil, servicios geográficos y asistencia inteligente
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="35" title="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="35" title="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35" title="PostgreSQL"/>
-  <img src="https://cdn.simpleicons.org/postgis" width="35" title="PostGIS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35" title="PostGIS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="35" title="Docker"/>
 </p>
 
@@ -89,7 +89,7 @@ georreferenciadas.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="35" title="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="35" title="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35" title="PostgreSQL"/>
-  <img src="https://cdn.simpleicons.org/postgis" width="35" title="PostGIS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35" title="PostGIS"/>
 </p>
 
 Principales características:
@@ -185,7 +185,7 @@ Principales características:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL"/>
-  <img src="https://cdn.simpleicons.org/postgis" width="45" height="45" title="PostGIS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35" title="PostGIS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45" title="SQL Server"/>
 </p>
@@ -193,7 +193,7 @@ Principales características:
 ## GIS y mapas
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/postgis" width="45" height="45" title="PostGIS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35" title="PostGIS"/>
   <img src="https://cdn.simpleicons.org/openstreetmap" width="45" height="45" title="OpenStreetMap"/>
 </p>
 
